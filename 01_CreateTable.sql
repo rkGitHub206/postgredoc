@@ -1,0 +1,28 @@
+CREATE TABLE sophia01(
+UKey bigint,
+d1S char (7),
+d1N real,
+d1Q int,
+d2S char (7),
+d2N real NULL,
+d2Q int,
+d3S char (7),
+d3N real,
+d3Q int,
+d4S char (7),
+d4N real,
+d4Q int,
+d5S char (7),
+d5N real,
+d5Q int,
+STS char (10),
+STN int,
+STQ int,
+SAS char (255),
+SAN bigint primary key,
+SAQ int,
+SBS char (4) NULL,
+SBN int,
+SBQ int
+QALL int
+);
