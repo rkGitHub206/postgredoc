@@ -43,4 +43,4 @@ The entrypoint is written as a batch script because the database is run on `wind
 The entrypoint script is a batch script because of these limitations. 
 
 #### Licence
-The files are a reuse here from the following source: https://github.com/stellirin/docker-postgres-windows.
+The files are a reuse from the following source: https://github.com/stellirin/docker-postgres-windows.
