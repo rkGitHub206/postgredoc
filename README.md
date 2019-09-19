@@ -28,7 +28,7 @@ Files *.sql are fired at the end of the process to create a table and to fill a 
 
 ### Testing
 
-The resulting image has not been tested yet, due do limitation of the win 32bit platform used to implement this solution. 
+The resulting image has not been tested yet, due do limitation of a win 32bit platform used to implement this solution. 
 
 ### Additional explanation
 
